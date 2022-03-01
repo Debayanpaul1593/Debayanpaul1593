@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Node Mongo and React stacks
 <!--
 **Debayanpaul1593/Debayanpaul1593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
